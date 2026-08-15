@@ -1,0 +1,5 @@
+- id: dsh-agent-doctor
+  name: '@mkaliezz/dsh-agent-doctor'
+  config:
+    requireAgentFuse: false
+    forbidRunCode: true
