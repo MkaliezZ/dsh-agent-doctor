@@ -1,6 +1,6 @@
 {
   "name": "@mkaliezz/dsh-agent-doctor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "DeepSeek Harness health and safety diagnostics for effective tool surfaces, approvals, and AgentFuse composition",
   "type": "module",
   "license": "MIT",
